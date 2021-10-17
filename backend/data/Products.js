@@ -7,4 +7,15 @@ const Products = [
     Price: 19.99,
     CountInStock: 100
   }
+
+  {
+    name: "Sorry We're Late Vinyl Sticker",
+    ImageUrl: "N/A",
+    Description: "a durable sticker of the sorry we're late logo",
+    Price: 3.99,
+    CountinStock: 100
+
+  }
+
+
 ];
